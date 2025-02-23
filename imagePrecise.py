@@ -9,7 +9,7 @@ import re
 import pytesseract  # For OCR
 
 # Set up Google Generative AI API
-api_key = "AIzaSyAT8CCucA7l5ZfFLJNDe8X082en6M-s0EE"
+api_key = "Api-key"
 genai.configure(api_key=api_key)
 
 # Configure generation settings
